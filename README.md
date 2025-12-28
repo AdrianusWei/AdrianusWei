@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @AdrianusWei. Just call me Adrian or Ad 🥰
-- 🎓 I am currently studying for a bachelor's degree in computer science at Harbin Institute of Technology, Shenzhen.
-- 🤩 I’m interested in Mathematics, Artificial Intelligence (AI) and Reinforcement Learning (RL).
-- 🧐 I’m currently working on Large Language Models (LLMs).
+👋 Hi, I’m @AdrianusWei, currently an undergraduate at Harbin Institute of Technology, Shenzhen (HITSZ). 
+
+🔭 I’m interested in truly exciting topics, such as AGI and AI Scientists. 
+
+🔧 My current focus: 
+
+- Pushing the frontiers of LLM intelligence through efficient yet scalable methods such as reinforcement learning (RL). 
+
+- Scaling agent intelligence beyond fixed base models using self-referential iteration and evolutionary algorithms. 
 
 <!---
 AdrianusWei/AdrianusWei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
