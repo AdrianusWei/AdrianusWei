@@ -1,4 +1,4 @@
-👋 Hi, I’m @AdrianusWei, currently an junior at Harbin Institute of Technology, Shenzhen (HITSZ).
+👋 Hi, I’m @AdrianusWei, currently a junior at Harbin Institute of Technology, Shenzhen (HITSZ).
 
 🔭 I’m interested in truly exciting topics, such as AGI and AI Scientists. 
 
